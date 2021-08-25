@@ -3,7 +3,7 @@
 - 🚀 Iniciante no universo da programação
 - 📚 Estudando HTML, CSS e JavaScript
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas 
-- ✨ Pronouns: ela/dela
+- ✨ Gentileza gera gentileza! 
 
 <div>
  <a href="https://github.com/jadeSales">
