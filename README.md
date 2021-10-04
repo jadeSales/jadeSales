@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Jade Sales 👩‍💻
 
-- 🚀 Iniciante no universo da programação
-- 📚 Estudando HTML, CSS e JavaScript
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas 
-- 💡  Entusiasta de UX 
-- ✨ Gentileza gera gentileza! 
+🚀 Iniciante no universo da programação
+📚 Estudando HTML, CSS e JavaScript
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas 
+💡  Entusiasta de UX 
+✨ Gentileza gera gentileza! 
 
 <div>
  <a href="https://github.com/jadeSales">
