@@ -3,6 +3,7 @@
 - 🚀 Iniciante no universo da programação
 - 📚 Estudando HTML, CSS e JavaScript
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas 
+- 💡  Entusiasta de UX 
 - ✨ Gentileza gera gentileza! 
 
 <div>
