@@ -23,3 +23,5 @@
      <a href="https://www.linkedin.com/in/jade-snascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
+ <br>
+ <img src="https://user-images.githubusercontent.com/88989391/135934686-60f96a9c-1d9f-4bb8-8300-a66eba42a145.gif" width="450">
