@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Jade Sales 👩‍💻
 
-- 🚀 Iniciante no universo da programação
-- 📚 Estudando HTML, CSS e JavaScript
+- 🚀 Apaixonada por dados e informação
+- 📚 Estudando ferramentas e tecnologias do universo dos dados
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas 
-- 💡  Entusiasta de UX 
+- 💡 Bibliotecária e Cientista da Informação por formação
 - ✨ Gentileza gera gentileza! 
 
 <br>
